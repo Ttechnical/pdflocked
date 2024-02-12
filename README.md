@@ -2,7 +2,9 @@
 </h1>
 <img src="PDFLocked.png" alt="PDFLocked" class="center">
 
-### Download Termux App 
+#
+#
+# Download Termux App 
 You can download the latest termux app from here <a href="https://f-droid.org/en/packages/com.termux/">Link</a>
 
 # Installation Process on Termux
